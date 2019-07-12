@@ -63,3 +63,9 @@ typings/
 
 # ignore the Django database
 back_end/db.sqlite3
+
+# ignore caches from python
+__pycache__
+
+# ignore VSCode configurations
+.vscode
