@@ -1,7 +1,7 @@
 # Authentication with React
 Repository to an article to be published on Medium
 
-ASAP the will be here
+ASAP the link will be here
 
 # Django project
 
