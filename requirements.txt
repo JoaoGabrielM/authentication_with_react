@@ -1,7 +1,10 @@
 Django==2.2.3
+django-cors-headers==3.0.2
 djangorestframework==3.9.4
+djangorestframework-simplejwt==4.3.0
 lxml==4.3.3
 pep8==1.7.1
+PyJWT==1.7.1
 pytz==2019.1
 sqlparse==0.3.0
 virtualenv==16.5.0
